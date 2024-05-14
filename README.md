@@ -1,8 +1,9 @@
 Data visualisation on Power Bi
+<br>
 *performed ETL ( extraction , transformation and loading ) in power bi on HR and sales dashboard.
 <br>
 * Created a HR Dashboard on Power bi and showed number of employees that joined this year,total 
- active employes and bad hires.
+  active employes and bad hires.
 <br>
 * created a dashboard on new hires current year and new hires last year by variance% and age group.
 <br>
