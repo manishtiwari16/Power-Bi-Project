@@ -1,4 +1,4 @@
-Data visualisation on Power Bi
+Data visualisation on Power Bi.
 <br>
 *performed ETL ( extraction , transformation and loading ) in power bi on and sales dashboard.
 <br>
